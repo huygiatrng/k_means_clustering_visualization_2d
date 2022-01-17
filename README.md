@@ -7,7 +7,7 @@ The tool to help students more easily understand the use of K-means clustering i
 Direction (Manually):
 + Click multiple times on the graph (small screen) to add labled points.
 + Adjust K number.
-+ Click RANDOM button to set random K clustering points.
++ Click RANDOM button to set random K number of centroids.
 + Click RUN for each step to progress each K-means clustering iteration.
 + The Error is shown at the right side.
 + (Optional) Click RESET to clear the graph (small screen.)
