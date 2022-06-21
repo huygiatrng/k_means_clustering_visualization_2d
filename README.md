@@ -2,7 +2,7 @@
 
 The tool to help students more easily understand the use of K-means clustering in Supervised learning is shown on a 2-dimensional chart.
 
-<img src="https://github.com/huygiatrng/k_means_clustering_visualization_2d/blob/main/preview_image/preview.PNG" width="600"/>
+<img src="https://github.com/huygiatrng/k_means_clustering_visualization_2d/blob/main/preview_image/preview.PNG" width="700"/>
 
 Direction (Manually):
 + Click multiple times on the graph (small screen) to add labled points.
