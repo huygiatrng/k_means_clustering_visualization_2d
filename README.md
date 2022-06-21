@@ -1,9 +1,9 @@
 # K-means clustering visualization on 2 dimension graph
 
 The tool to help students more easily understand the use of K-means clustering in Supervised learning is shown on a 2-dimensional chart.
-
-<img alight="center" src="https://github.com/huygiatrng/k_means_clustering_visualization_2d/blob/main/preview_image/preview.PNG" width="700"/>
-
+<p align="center">
+  <img src="https://github.com/huygiatrng/k_means_clustering_visualization_2d/blob/main/preview_image/preview.PNG" width="700"/>
+</p>
 Direction (Manually):
 + Click multiple times on the graph (small screen) to add labled points.
 + Adjust K number.
