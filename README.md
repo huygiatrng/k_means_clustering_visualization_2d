@@ -4,6 +4,14 @@ The tool to help students more easily understand the use of K-means clustering i
 <p align="center">
   <img src="https://github.com/huygiatrng/k_means_clustering_visualization_2d/blob/main/preview_image/preview.PNG" width="700"/>
 </p>
+
+**Setup**
+
+Clone repo and install *requirements.txt*.
+<pre>
+"pip install -r requirements.txt"
+</pre>
+
 Direction (Manually):
 + Click multiple times on the graph (small screen) to add labled points.
 + Adjust K number.
